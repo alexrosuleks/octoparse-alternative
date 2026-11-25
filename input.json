@@ -1,0 +1,16 @@
+{
+  "searchStringsArray": [
+    "restaurant"
+  ],
+  "locationQuery": "New York, USA",
+  "maxCrawledPlacesPerSearch": 20,
+  "maxImages": 0,
+  "scrapeSocialMediaProfiles": {
+    "facebooks": false,
+    "instagrams": false,
+    "youtubes": false,
+    "tiktoks": false,
+    "twitters": false
+  },
+  "maximumLeadsEnrichmentRecords": 0
+}
